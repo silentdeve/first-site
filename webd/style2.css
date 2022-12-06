@@ -1,0 +1,49 @@
+body{
+    color:rgb(6, 68, 122);
+    background: rgb(99,146,255);
+    background: radial-gradient(circle, rgba(99,146,255,1) 0%, rgba(70,252,250,0.7987570028011204) 100%);
+    overflow-x: hidden;
+
+}
+.nav-link{
+    color:rgba(0, 0, 0, 0.747);
+    font-size: 1.5em;
+    font-family: Josefin Sans;
+    font-weight: bolder;
+}
+.heading{
+    color: #7a28cb;
+    background-image: linear-gradient(to right, #fffbd5, #b20a2c);
+    text-align: center;
+    padding-top: 1em;
+    padding-bottom: 2em;
+    font: italic;
+    font-weight: 100px;
+    background-color: #7a28cb;
+    margin: none;
+    /* padding-bottom: 1em; */
+}
+
+.navbar{
+    /* border: solid 5px black; */
+    background-image: linear-gradient(to right, #fffbd5, #b20a2c); 
+    margin-top:-0.4%;
+    
+}
+#first{
+    /* background-image: linear-gradient( 135deg, #C2FFD8 10%, #465EFB 100%);  */
+    background: rgb(99,146,255);
+    background: radial-gradient(circle, rgba(99,146,255,1) 0%, rgba(70,252,250,0.7987570028011204) 100%);
+    outline: 0;
+    height: 79vh;
+    background-image: url("./images final/try7.jpg");
+    background-size: cover;
+    /* margin-top: -6px;
+    margin-bottom: -4px; */
+}
+.clear{
+    padding-top: 12rem;
+    padding-left: 35rem;
+    background-image: url(./background/back1.jpg);
+    height: 91vh;
+}
